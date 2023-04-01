@@ -28,4 +28,4 @@ El método `__init__` se utiliza para inicializar una lista enlazada vacía con 
 - `remove_duplicates`: Elimina nodos duplicados de la lista enlazada.
 - `is_palindrome_`: Verifica si la lista enlazada es un palíndromo.
 
-Cada uno de estos métodos se explica en detalle en los comentarios del código.
+
